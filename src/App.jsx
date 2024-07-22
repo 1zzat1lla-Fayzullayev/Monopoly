@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 function App() {
   return (
     <>
-      
+      <h2>Monopoly project</h2>
     </>
   )
 }
