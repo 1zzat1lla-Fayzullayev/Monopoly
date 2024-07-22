@@ -1,7 +1,7 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import { Route, BrowserRouter as Router, Routes } from 'react-router-dom'
+import LoginNavbar from './components/navbar/loginNavbar'
 import Login from './pages/login/login'
 import Register from './pages/register/register'
-import LoginNavbar from './components/loginNavbar'
 
 function App() {
 	return (
