@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.lik_as{
+    box-shadow: 0px 10px 25px 0px #726CED40;
+
+    background: radial-gradient(155.56% 2452.42% at -55.56% 50%, #726CED 0%, #9D80F4 44.79%, #70DCF1 100%);
+        
+}
